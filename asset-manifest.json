@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-project1/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-project1/static/js/main.0ad9ce60.chunk.js",
+    "main.js.map": "/react-project1/static/js/main.0ad9ce60.chunk.js.map",
+    "runtime-main.js": "/react-project1/static/js/runtime-main.c87ccc3a.js",
+    "runtime-main.js.map": "/react-project1/static/js/runtime-main.c87ccc3a.js.map",
+    "static/js/2.92313060.chunk.js": "/react-project1/static/js/2.92313060.chunk.js",
+    "static/js/2.92313060.chunk.js.map": "/react-project1/static/js/2.92313060.chunk.js.map",
+    "index.html": "/react-project1/index.html",
+    "precache-manifest.89a2e18d76d70b2d399971a3f72a557d.js": "/react-project1/precache-manifest.89a2e18d76d70b2d399971a3f72a557d.js",
+    "service-worker.js": "/react-project1/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-project1/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.92313060.chunk.js.LICENSE.txt": "/react-project1/static/js/2.92313060.chunk.js.LICENSE.txt",
+    "static/media/profileicon.svg": "/react-project1/static/media/profileicon.6f88fc6b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c87ccc3a.js",
+    "static/js/2.92313060.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0ad9ce60.chunk.js"
+  ]
+}
